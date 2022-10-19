@@ -1,2 +1,2 @@
 # Clash-Royale-API-Laravel
-One of my favourite video games - API
+A video game favourite of mine - API
